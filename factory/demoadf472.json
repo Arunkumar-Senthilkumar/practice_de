@@ -1,0 +1,9 @@
+{
+	"name": "demoadf472",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "45973698-a45c-4815-9724-5e0f87d7e720",
+		"tenantId": "49bba7a4-424b-4070-a70e-886e9dd7caef"
+	}
+}
